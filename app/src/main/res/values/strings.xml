@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+
+
+    <string name="facebook_app_id">695758481358368</string>
+    <string name="fb_login_protocol_scheme">fb695758481358368</string>
+
+    <!--Not data found-->
+    <string name="sorry_this_time_we_could_not_find_anythings">:-( Sorry this time we could not find anything..!!!</string>
+    <string name="welcome_back">Welcome Back,</string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+
+    <string name="prompt_email">Email/Phone no</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_name">Name</string>
+
+
+    <string name="label_forgot_password">Facebook</string>
+    <string name="label_chnage_number">Google</string>
+
+    <string name="login_button_text">Login</string>
+
+</resources>
